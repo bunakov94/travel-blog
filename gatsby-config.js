@@ -20,6 +20,15 @@ module.exports = {
             },
         },
         {
+            resolve: `gatsby-plugin-google-fonts`,
+            options: {
+                fonts: [
+                    `baskerville\:400`,
+                    `mili\:300,700`
+                ]
+            },
+        },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `images`,
