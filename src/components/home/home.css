@@ -53,7 +53,7 @@
     .card:nth-child(n) {
         grid-column-start: span 6;
     }
-    .card:last-child {
+    .card:last-child:nth-child(odd) {
         grid-column-start: span 12;
     }
 }

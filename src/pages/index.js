@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import {Link} from "gatsby"
 import Nav from "../components/nav/nav"
 import Featured from "../components/featured/featured"
 import Home from "../components/home/home"
