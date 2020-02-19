@@ -1,8 +1,9 @@
-nav{
+nav {
     transform: translateY(80px);
     margin-top: -80px;
 }
-.nav__items{
+
+.nav__items {
     background-color: transparent;
     border: none;
     height: 40px;
@@ -11,13 +12,16 @@ nav{
     justify-content: flex-end;
     align-items: center;
 }
-.nav__item--left{
+
+.nav__item--left {
     margin-right: auto;
 }
-.nav__item--logo{
+
+.nav__item--logo {
     height: 40px;
 }
-.nav__item--link{
+
+.nav__item--link {
     font-family: Muli, sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -26,9 +30,11 @@ nav{
     text-decoration: none;
     margin-left: 40px;
 }
-.nav__item--link:hover{
-  color: #f06666;
+
+.nav__item--link:hover {
+    color: #f06666;
 }
-.active{
+
+.active {
     color: #f06666;
 }

@@ -25,7 +25,7 @@ module.exports = {
             options: {
                 fonts: [
                     `baskerville\:400`,
-                    `mili\:300,700`
+                    `muli\:300,700`
                 ]
             },
         },

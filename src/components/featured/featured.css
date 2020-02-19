@@ -21,9 +21,9 @@
     left: 0;
     background-image: linear-gradient(
             to bottom,
-            rgba(10,10,10,0.6) 0%,
-            rgba(10,10,10,0.6) 60%,
-            rgba(10,10,10,1) 100%);
+            rgba(10, 10, 10, 0.6) 0%,
+            rgba(10, 10, 10, 0.6) 60%,
+            rgba(10, 10, 10, 1) 100%);
 }
 
 .header__content {
@@ -43,7 +43,7 @@
 }
 
 .header__subtitle {
-    font-family: Muli,sans-serif;
+    font-family: Muli, sans-serif;
     font-size: 18px;
     line-height: 24px;
     font-weight: 300;
